@@ -1,0 +1,3 @@
+https://github.com/Blanuska/TechnicalBootCamp_BSV/pull/1
+
+git checkout -- . "smaže všechny změny, co nechci uložit"
