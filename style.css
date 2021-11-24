@@ -1,0 +1,53 @@
+﻿/* Main elements of the page */
+
+body
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color;: yellow, scroll yellow no-repeat right
+}
+
+#main_wrapper
+{
+    width: 900px;
+    margin: auto;
+}
+
+#main_title
+{text-align: right;
+
+}
+
+.header 
+{ font-size: 14px; 
+    font-family: 
+    width: 30px;
+    margin: auto;
+}
+
+
+
+#logo
+{image: zozor_logo.png;
+ text-align: top/right;
+}
+
+#banner_image
+{background-image: url("sanfrancisco.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+background-position:center, center;
+}
+
+.clanek-obsah
+{text-align: left;
+color: black;
+background-color: yellow;
+
+}
+
+
+
+
+/* Footer */
+
+
