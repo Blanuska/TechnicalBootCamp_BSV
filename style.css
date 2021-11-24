@@ -19,7 +19,7 @@ body
 
 .header 
 { font-size: 14px; 
-    font-family: 
+    font-family;
     width: 30px;
     margin: auto;
 }
@@ -29,6 +29,7 @@ body
 #logo
 {image: zozor_logo.png;
  text-align: top/right;
+ float: left;
 }
 
 #banner_image
